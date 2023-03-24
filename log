@@ -1,0 +1,406 @@
+MissingFieldException: At least one field was empty
+Something went wrong with the creation of the 'reader' Scanner.
+java.io.FileNotFoundException: ./originalFiles/books2000.csv.txt (No such file or directory)
+Something went wrong with the creation of the 'reader' Scanner.
+java.io.FileNotFoundException: ./originalFiles/books2001.csv.txt (No such file or directory)
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+TooManyFieldsException: Too many fields were found
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+BadGenreException: Invalid genre
+BadGenreException: Invalid genre
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+BadGenreException: Invalid genre
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadGenreException: Invalid genre
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+MissingFieldException: At least one field was empty
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadIsbnException: Invalid ISBN code
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadIsbn13Exception: Invalid 13 digit ISBN code
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadIsbnException: Invalid ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadYearException: Invalid Year
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbnException: Invalid ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadPriceException: Invalid price
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadYearException: Invalid Year
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+BadIsbn10Exception: Invalid 10 digit ISBN code
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
+Tried to read beyond end of the file
+java.io.EOFException
